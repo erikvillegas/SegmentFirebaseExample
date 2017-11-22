@@ -28,8 +28,8 @@ PODS:
     - Firebase/Core (~> 4.0)
 
 DEPENDENCIES:
-  - Analytics (= 3.6.7)
-  - Segment-Firebase (= 2.0.0)
+  - Analytics
+  - Segment-Firebase
 
 SPEC CHECKSUMS:
   Analytics: 2c09a50e3478a3a7ced08a22d00c43ba6f7011e6
@@ -41,6 +41,6 @@ SPEC CHECKSUMS:
   nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
   Segment-Firebase: faaadea4a778f8df3d35a2e4027b213ddbd645d4
 
-PODFILE CHECKSUM: f53ab898b12f46a063f7ed71a57a4e7f44ae82bf
+PODFILE CHECKSUM: 591562e375ff8eba7c890fa4c154d03f0ee0ba49
 
 COCOAPODS: 1.3.1
